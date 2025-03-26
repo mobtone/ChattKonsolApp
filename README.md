@@ -11,9 +11,7 @@ Anslut till servern genom att ange IP-adress och port (ex: 192.168.1.100:5000)
 Skicka och ta emot meddelanden i realtid  
 Flera klienter kan chatta samtidigt    
 
-Framtida Utveckling    
-
+Utvecklingsmöjligheter:  
 Lägga till användarnamn och lösenord för att kunna spara chatthistorik  
-
 Kryptering för säker kommunikation  
 Eventuellt GUI  
