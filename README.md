@@ -13,7 +13,7 @@ Flera klienter kan chatta samtidigt
 
 Framtida Utveckling    
 
-Lägga till användarnamn för att se vem som skickar meddelanden  
+Lägga till användarnamn och lösenord för att kunna spara chatthistorik  
 
 Kryptering för säker kommunikation  
 Eventuellt GUI  
