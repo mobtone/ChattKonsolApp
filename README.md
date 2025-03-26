@@ -12,6 +12,6 @@ Skicka och ta emot meddelanden i realtid
 Flera klienter kan chatta samtidigt    
 
 Utvecklingsmöjligheter:  
-Lägga till användarnamn och lösenord för att kunna spara chatthistorik  
+Lägga till användarnamn och lösenord och kunna spara chatthistorik  
 Kryptering för säker kommunikation  
 Eventuellt GUI  
